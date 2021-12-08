@@ -72,3 +72,15 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Blueprints/EnemyAI.uasset
+Content/BulletRain/Ferris/Weapons/BPLewisCharacter.uasset
+Content/BulletRain/Maps/Maps/PrisonBreak.umap
+Content/BulletRain/Maps/Maps/PrisonBreakDuplicate.umap
+Content/BulletRain/Maps/TestMaps/PrisonBreak_Test.umap
+Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+Content/Blueprints/EnemyAI.uasset
+Content/BulletRain/Ferris/Weapons/BPLewisCharacter.uasset
+Content/BulletRain/Maps/Maps/PrisonBreak.umap
+Content/BulletRain/Maps/Maps/PrisonBreakDuplicate.umap
+Content/BulletRain/Maps/TestMaps/PrisonBreak_Test.umap
+Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
